@@ -1,4 +1,4 @@
-# HEA-pre-trained-transformer
+# Introducing pre-trained transformers for high entropy alloy informatics, Materials Letters, DOI: https://doi.org/10.1016/j.matlet.2024.135871 by S.Kamnis
 High Entropy Alloy Phase formation predictions
 Comment on Voting Method Selection:
 Combining Strengths of Different Models: Weighted voting allows for the combination of different models' strengths. For instance, if LLM performs well in certain classification categories and RF in others, weighted voting can leverage these strengths by assigning more weight to the model that performs better in a specific context. This leads to a more robust overall performance.
